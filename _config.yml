@@ -1,6 +1,6 @@
 name: schulz
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.7744373509194702
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.40061059477739036
+    - '#f9d4a6'
+    - '#392f22'
+    - '#7dafa4'
+    - '#abbfa4'
+    - '#978976'
+  brandStrength: 0.3125
   lightness: 0.45735409506596625
-  saturation: 0.875
-  rhythmicContrast: 0.23855711752548814
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
